@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi! I'm Ronaldo
 
-<!--
-**RonaldoEugenio/RonaldoEugenio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Systems Analysis and Development student  
+🔐 Currently learning Cybersecurity  
+💻 Interested in technology, security, and problem solving  
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+- Git & GitHub
+- Networking fundamentals
+- Programming fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently studying
+- Cybersecurity fundamentals
+- Operating systems
+- Computer networks
+
+## 🚀 Goals
+- Build a solid foundation in cybersecurity
+- Develop practical projects and labs
+- Grow as a technology professional
+
+## 📫 Contact
+- GitHub: @RonaldoEugenio
